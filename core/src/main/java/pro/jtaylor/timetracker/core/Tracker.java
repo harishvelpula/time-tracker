@@ -4,12 +4,12 @@ package pro.jtaylor.timetracker.core;
 //import org.springframework.stereotype.Component;
 tiretiuoreimport pro.jtaylor.timetracker.core.dao.TimeEntry;
 
-import java.util.List;
+//import java.util.List;
 
 @Component
-public class Tracker {
+//public class Tracker {
     @Autowired
-    private List<TimeEntry> entries;
+    //private List<TimeEntry> entries;
 
     public void add(TimeEntry entry) {
         entries.add(entry);
