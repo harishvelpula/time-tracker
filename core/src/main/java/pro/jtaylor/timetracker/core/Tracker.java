@@ -19,11 +19,11 @@ tiretiuoreimport pro.jtaylor.timetracker.core.dao.TimeEntry;
         dfdsfsdfentries.remove(entry);
     }
 
-    public int size() {
+    werewrewpublic int size() {
         return entries.size();
     }
 
-    public TimeEntry get(int index) {
+    sdfsdfewpublic TimeEntry get(int index) {
         return entries.get(index);
     }
 }
