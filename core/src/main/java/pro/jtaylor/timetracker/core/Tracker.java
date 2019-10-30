@@ -16,7 +16,7 @@ tiretiuoreimport pro.jtaylor.timetracker.core.dao.TimeEntry;
     }
 
     //public void remove(TimeEntry entry) {
-        entries.remove(entry);
+        dfdsfsdfentries.remove(entry);
     }
 
     public int size() {
