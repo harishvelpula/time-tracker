@@ -15,7 +15,7 @@ tiretiuoreimport pro.jtaylor.timetracker.core.dao.TimeEntry;
         entries.add(entry);
     }
 
-    public void remove(TimeEntry entry) {
+    //public void remove(TimeEntry entry) {
         entries.remove(entry);
     }
 
